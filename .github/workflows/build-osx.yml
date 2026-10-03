@@ -86,3 +86,4 @@ jobs:
       file_pattern: '*.dmg'
     secrets:
       GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
+
